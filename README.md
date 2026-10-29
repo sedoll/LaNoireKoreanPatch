@@ -10,6 +10,14 @@ Steam판 **L.A. Noire**(락스타 게임즈 런처 연동 버전)용 비공식 �
 
 > 번역은 기계 번역(Claude, Gemma)을 바탕으로 했습니다. 어색한 문장이나 오역을 발견하면 [이슈](../../issues)로 알려 주세요.
 
+## 스크린샷
+
+| 대사 자막 | 튜토리얼 |
+|---|---|
+| ![대사 자막](images/subtitle.jpg) | ![튜토리얼](images/tutorial.jpg) |
+| **수첩 (필기체)** | **일시정지 메뉴** |
+| ![수첩](images/notebook.jpg) | ![일시정지 메뉴](images/pause_menu.jpg) |
+
 ## 설치
 
 1. [Releases](../../releases)에서 `LANoire_KoreanPatch_vX.X.zip`을 받아 압축을 풉니다.
