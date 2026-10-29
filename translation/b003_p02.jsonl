@@ -1,0 +1,150 @@
+{"k": "4fd78e52dec1", "ko": "그런데 제 차가 왜 필요하신 거예요?"}
+{"k": "833dabb0b330", "ko": "돌려받았을 때 흠집 하나라도 있으면..."}
+{"k": "f811fff6e54c", "ko": "한 시간 전에 막 찾아온 차예요. 조심하셔야 해요."}
+{"k": "2eb49643537a", "ko": "경관님, 제발 무슨 일인지 좀 알려 주세요."}
+{"k": "362a92f1f500", "ko": "또 그 끔찍한 살인 사건은 아니겠죠?"}
+{"k": "0e4d7cf71ef1", "ko": "보고 싶어요. 실례지만 경관님, 저 좀 보게 해 주세요."}
+{"k": "fd91cf475664", "ko": "이 동네가 이젠 안전하지 않다는 거 알았다니까."}
+{"k": "296156dc1794", "ko": "범죄가 벌어지는 동안엔 이 많은 경찰들이 다 어디 있었는지 몰라?"}
+{"k": "e751914c1706", "ko": "끔찍해, 정말 끔찍해. 왜 더 가까이 못 가게 하는 거죠?"}
+{"k": "a75f671af654", "ko": "이거 신문에 나올까요?"}
+{"k": "d55c6cfe5637", "ko": "다들 그냥 서 있기만 하네요. 일 안 하세요?"}
+{"k": "1f5b71fa7044", "ko": "평생 살면서 이런 건 처음 봐요."}
+{"k": "e835d86991f0", "ko": "여긴 참 좋은 동네인 줄 알았는데."}
+{"k": "e6ebbbe462fe", "ko": "[SQUARE|TALK] 버튼을 눌러 대화하세요."}
+{"k": "006dfce5ae86", "ko": "[TRIANGLE|ENTEREXIT] 버튼을 눌러 차량에 탑승하세요."}
+{"k": "52e8a9e6b994", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 트렁크를 여세요."}
+{"k": "811f93598c54", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 물체를 조사하세요."}
+{"k": "4b1ec17d57ca", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 물체를 선택하세요."}
+{"k": "2f95e2a781bc", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 물체를 돌려 보세요."}
+{"k": "a3122a349802", "ko": "[BACK|AIMFISTS] 버튼을 눌러 물체를 내려놓으세요."}
+{"k": "f0d81451cf3f", "ko": "[TRIANGLE|ENTEREXIT] 버튼을 눌러 일어나세요."}
+{"k": "a6a377a65e59", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 물체를 더 자세히 조사하세요."}
+{"k": "20752bc54769", "ko": "[L1|USEINT] 버튼을 눌러 직감으로 단서를 찾으세요."}
+{"k": "052a72765504", "ko": "[R2|THROTTLE] 버튼을 누르고 있으면 가속합니다."}
+{"k": "90601993e107", "ko": "[L2|BRAKE] 버튼을 누르면 브레이크, [L2|BRAKE] 버튼을 누르고 있으면 후진합니다."}
+{"k": "42dfd901dc31", "ko": "[R1|HANDBRAKE] 버튼을 눌러 핸드브레이크를 사용하세요."}
+{"k": "f8eb10aa42c2", "ko": "[L3|HORN] 버튼을 눌러 사이렌을 켜세요."}
+{"k": "dc3a4adb9664", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 체포하세요."}
+{"k": "a1a0a3b7fcfd", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 용의자를 체포하거나, 바를 떠나 그냥 보내 주세요."}
+{"k": "5a3a27b75f3c", "ko": "차량 옆에서 [TRIANGLE|ENTEREXIT] 버튼을 누르고 있으면 파트너가 운전합니다."}
+{"k": "10df60051ca6", "ko": "범죄 현장이나 관심 장소에 들어가면 수사 음악이 흘러나옵니다."}
+{"k": "0b97be727e7e", "ko": "무전 지령은 경찰차에서만 받을 수 있습니다."}
+{"k": "d4ecd8f530c0", "ko": "LAPD 경관은 로스앤젤레스 시민을 보호하기로 맹세했습니다. 시민에게 해를 끼치는 것은 용납될 수 없는 행위이며 사건 종료 후 근무 평가에 심각한 영향을 미칩니다."}
+{"k": "86760bfcd558", "ko": "무고한 시민에게 해를 끼치는 것은 용납될 수 없는 행위이며 사건 종료 후 근무 평가에 심각한 영향을 미칩니다."}
+{"k": "ab1875861d0c", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 경찰 비상전화를 사용하세요."}
+{"k": "f189ceb7aec9", "ko": "[CROSS|GRAPPLE] 버튼을 눌러 무기를 주우세요."}
+{"k": "c0b530fbce20", "ko": "[CIRCLE|RELOAD] 버튼을 눌러 재장전하세요."}
+{"k": "e7e9d62f24c6", "ko": "들키지 않도록 몸을 숨기세요."}
+{"k": "73a667d16423", "ko": "너무 가까이 미행하거나, 너무 뒤처지거나, 난폭하게 운전해 주의를 끌면 아이콘이 깜박입니다."}
+{"k": "6f9593870d9e", "ko": "너무 뒤처지면 아이콘이 깜박이고, 용의자를 놓칠 위험이 있으면 아이콘이 희미해집니다."}
+{"k": "aca46efa4569", "ko": "안전한 거리를 두고 용의자를 미행하세요. 용의자는 빨간색으로 표시됩니다."}
+{"k": "efeb0a54e08d", "ko": "용의자를 놓치고 있으면 아이콘이 희미해집니다."}
+{"k": "af80161b83ce", "ko": "용의자가 도망치기 전에 따라잡으세요."}
+{"k": "c99ea7f5adbb", "ko": "[R1|ENTERCOVER] 버튼을 눌러 엄폐하거나 엄폐에서 벗어나세요."}
+{"k": "33a986ef0981", "ko": "수첩에서 거짓말을 입증할 증거를 선택하세요."}
+{"k": "c8da590a33b6", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 크레인을 움직이세요."}
+{"k": "9f24a0cb88c9", "ko": "불빛이 크레인 팔의 위치를 나타냅니다."}
+{"k": "0fba7a85d7eb", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 물건을 집거나 떨어뜨리세요."}
+{"k": "c2c1f38e952d", "ko": "[BACK|AIMFISTS] 버튼을 눌러 나가세요."}
+{"k": "8af19a036ae5", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 다이얼을 고르세요."}
+{"k": "969973584afe", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 다이얼을 돌리세요."}
+{"k": "285b304be3a8", "ko": "거리 범죄는 경찰 무전으로 전달됩니다."}
+{"k": "516f8c0022fe", "ko": "거리 범죄는 해당 장소로 돌아가면 다시 플레이할 수 있습니다."}
+{"k": "2453885e0769", "ko": "[ACCEPT|ACCEPTDISP] 버튼을 눌러 무전 호출에 응답하세요."}
+{"k": "15f60b31eea4", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 이동하세요."}
+{"k": "fd73da28e770", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 위치를 선택하세요."}
+{"k": "6d9ba5a5db44", "ko": "[L2|AIMFISTS] 버튼을 누르고 있으면 격투 자세를 취합니다"}
+{"k": "2ae2c8907680", "ko": "[CROSS|ATTACK] 버튼을 눌러 주먹을 날리세요."}
+{"k": "c23a024825d6", "ko": "주먹이 적중할 때 [CROSS|ATTACK] 버튼을 누르면 연속 공격을 합니다."}
+{"k": "dc22809379b7", "ko": "[SQUARE|TALK] 버튼을 누르고 있으면 방어합니다."}
+{"k": "8cc14deeb5c6", "ko": "상대가 공격할 때 [SQUARE|TALK] 버튼을 눌러 피한 다음, [CROSS|ATTACK] 버튼을 눌러 강력한 반격을 가하세요."}
+{"k": "5f48e3d7a3d2", "ko": "[TRIANGLE|GRAPPLE] 버튼을 눌러 붙잡으세요."}
+{"k": "a0f11dc3ccf5", "ko": "[CIRCLE|RELOAD] 버튼을 눌러 마무리하세요."}
+{"k": "e75f4522a05d", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 시신을 조사하세요."}
+{"k": "18e9c421489a", "ko": "[LEFTSTICK|MOUSEAXIS](으)로 주변을 살펴보세요."}
+{"k": "10dffafc6b3e", "ko": "파트너 근처에서 [SQUARE|TALK] 버튼을 누르면 조언을 구할 수 있습니다."}
+{"k": "4fae5d5005d1", "ko": "범죄 현장의 증거 표지를 찾으세요."}
+{"k": "9e14439d37a0", "ko": "표지는 관심 물체 옆에 놓여 있습니다."}
+{"k": "be06520da8f9", "ko": "전화기를 찾아 주소를 문의하세요."}
+{"k": "d11992ec2d77", "ko": "[LEFTSTICK|MOVEMENTUPDOWN](으)로 질문과 증거를 넘겨 보세요."}
+{"k": "f604b0f38a9f", "ko": "장부 모서리를 선택해 페이지를 넘기세요."}
+{"k": "b7202c98c3eb", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 기록을 읽고 [ACCEPT|ATTACK] 버튼을 눌러 선택하세요."}
+{"k": "fac05b8535e3", "ko": "[SELECT|NOTEBOOK] 버튼을 눌러 수첩을 여세요."}
+{"k": "3a32e4e06d7a", "ko": "'목적지 설정'으로 지도에 장소를 표시하세요."}
+{"k": "084dca7c8b34", "ko": "[ACCEPT|NOTEACCEPT] 버튼을 눌러 장소 페이지로 가세요."}
+{"k": "f7987402aa4c", "ko": "거짓말을 입증할 증거가 없다면 [BACK|NOTEBACK] 버튼을 눌러 물러나세요."}
+{"k": "df640769de17", "ko": "[LEFTSTICKUPDOWN|MOVEMENTUPDOWN](으)로 고리를 선택하세요."}
+{"k": "317f2c62e5bd", "ko": "[LEFTSTICKLEFTRIGHT|MOVEMENTLEFTRIGHT](으)로 돌리세요."}
+{"k": "960085bfa7f2", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 크레인을 사용하세요."}
+{"k": "3d237e079f60", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 신분을 숨기세요."}
+{"k": "efab25a5108d", "ko": "[SQUARE|ASKFORDIRECTIONS] 버튼을 눌러 파트너에게 길을 물어보세요."}
+{"k": "9ca5b2bdf5a6", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 연필을 움직이세요."}
+{"k": "8e2a2fe07928", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 샹들리에를 흔드세요."}
+{"k": "13135f488409", "ko": "도망치는 용의자에게 무기를 겨누세요."}
+{"k": "51148ae1ffeb", "ko": "조준선이 가득 찰 때까지 용의자에게 조준을 유지하세요."}
+{"k": "4208ea8d84ac", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 용의자를 기소하세요."}
+{"k": "80b6315b6d46", "ko": "용의자를 기소하면 사건이 종결됩니다."}
+{"k": "e3a36f3a75c4", "ko": "[CROSS|ATTACK] 버튼을 연타해 태클하세요."}
+{"k": "83db9ff99e73", "ko": "장애물을 향해 달려가면 넘어갑니다."}
+{"k": "635070d214a4", "ko": "[CROSS|ATTACK] 버튼을 눌러 사격 연습을 하세요."}
+{"k": "2f762c3aa4ae", "ko": "[LEFTSTICKUPDOWN|MOVEMENTUPDOWN](으)로 위도를 조정하세요."}
+{"k": "ba56c2fe6c5c", "ko": "갤러웨이가 도와줄 때까지 [LEFTSTICK|MOVEMENTKEYS](으)로 발판의 균형을 유지하세요."}
+{"k": "1ddca1108e12", "ko": "[LEFTSTICKUPDOWN|MOVEMENTUPDOWN](으)로 암호 고리를 선택하세요."}
+{"k": "f51be5f3f6d0", "ko": "[LEFTSTICKLEFTRIGHT|MOVEMENTLEFTRIGHT](으)로 암호 고리를 돌리세요."}
+{"k": "8b13d8ae9270", "ko": "인질을 구하려면 용의자가 쏘기 전에 무력화하세요."}
+{"k": "418ff2f00181", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 오르내리세요."}
+{"k": "a2e666ead608", "ko": "내려가는 중에 [R2|RUN] 버튼을 누르면 미끄러져 내려갑니다."}
+{"k": "68e6a013397c", "ko": "[BACK|AIMFISTS] 버튼을 눌러 조사를 마치세요."}
+{"k": "3413ad7d3dc5", "ko": "[LEFTSTICK|STEERLEFTRIGHT](으)로 조향하세요."}
+{"k": "38999d286b8c", "ko": "[LEFTSTICK|MOVEMENTLEFTRIGHT](으)로 엄폐한 채 이동하세요."}
+{"k": "c43f5fe53d58", "ko": "[R1|ENTERCOVER] 버튼을 눌러 엄폐에서 벗어나세요."}
+{"k": "76cde4cf3a5c", "ko": "[R2|ATTACK] 버튼을 눌러 엄폐 사격을 하세요."}
+{"k": "9dff524ccef9", "ko": "[LEFTSTICKUPDOWN|MOVEMENTUPDOWN](으)로 앞뒤로 이동하세요."}
+{"k": "bf73f783c182", "ko": "[LEFTSTICKLEFTRIGHT|MOVEMENTLEFTRIGHT](으)로 균형을 잡으세요."}
+{"k": "0589bca99f72", "ko": "[LEFTSTICKUP|FORWARDS](으)로 다시 올라가세요."}
+{"k": "7aaa42a6f030", "ko": "틈을 향해 달려가면 뛰어넘습니다."}
+{"k": "c7bf24b32b85", "ko": "[L2|AIMFISTS] 버튼을 누른 채 [RIGHTSTICK|MOUSEAXIS](으)로 조준하세요."}
+{"k": "08dc00603221", "ko": "[L2|TALK] 버튼과 [LEFTSTICKDOWN|BACKWARDS](으)로 뒤돌아서세요."}
+{"k": "21fda3467b67", "ko": "[LEFTSTICKUP|MOVEMENTKEYS](을)를 살짝 눌러 엄폐한 채 모퉁이를 도세요."}
+{"k": "5a0ba8c544f9", "ko": "[RIGHTSTICKUP|GRAPPLE](으)로 확대, [RIGHTSTICKDOWN|ENTEREXIT](으)로 축소하고 [LEFTSTICK|MOVEMENTKEYS](으)로 돋보기를 움직이세요."}
+{"k": "f6fa81d7b1c4", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 사진을 선택하세요."}
+{"k": "d66bcf0efbb9", "ko": "[LEFTSTICK|MOVEMENTLEFTRIGHT](으)로 사진을 고르고 [ACCEPT|ATTACK] 버튼을 눌러 선택하세요."}
+{"k": "601319ab0548", "ko": "용의자가 의심할 때는 눈에 띄지 않게 숨어 있으세요."}
+{"k": "a946081c7843", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 초점 다이얼을 돌리세요."}
+{"k": "bf03109efa6d", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 속도 다이얼을 돌리세요."}
+{"k": "297cf69dafd3", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 방향 스위치를 젖히세요."}
+{"k": "0b5fa64dfb10", "ko": "[LEFTSTICK|MOVEMENTUPDOWN](으)로 문서를 넘겨 보세요."}
+{"k": "fba376786e07", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 신체 부위를 선택하고 [ACCEPT|ATTACK] 버튼을 눌러 자세히 조사하세요."}
+{"k": "30683cf42a65", "ko": "피해자의 머리와 팔을 조사하세요."}
+{"k": "fdc86ef51e7c", "ko": "피해자의 주머니를 뒤져 보세요."}
+{"k": "75cb0523f76a", "ko": "[BACK|VIEWCHASETARGET] 버튼을 누르고 있으면 카메라가 용의자를 비춥니다."}
+{"k": "6bb833205d95", "ko": "[LEFTSTICK|MOVEMENTLEFTRIGHT](으)로 돌리세요."}
+{"k": "b30f12241a5f", "ko": "[CROSS|ATTACK] 버튼을 눌러 신문을 읽으세요."}
+{"k": "ba16864cd932", "ko": "[CIRCLE] 버튼을 눌러 마치세요."}
+{"k": "c8a2f09da8cb", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 깡통 따개를 사용하세요."}
+{"k": "7694fb8f9d05", "ko": "[CROSS_SML|ATTACK] 버튼을 연타해 태클하세요."}
+{"k": "7322d8e28611", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 이동하고 [ACCEPT|ATTACK] 버튼을 눌러 선택하세요."}
+{"k": "f9689091007d", "ko": "[LEFTSTICK|MOVEMENTKEYS]와(과) [CROSS|ATTACK] 버튼으로 칼을 판에 꽂으세요."}
+{"k": "83002cafb97b", "ko": "[BACK|AIMFISTS] 버튼으로 칼을 조리대에 내려놓으세요."}
+{"k": "505bed7ae781", "ko": "운전석 문으로 다가가세요."}
+{"k": "b973f135775e", "ko": "[L3|HORN] 버튼을 눌러 경적을 울리세요."}
+{"k": "b01e10ce3fe2", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 전화기를 사용하세요."}
+{"k": "86cb229aee94", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 부분을 문지르세요."}
+{"k": "cb41263a6d7c", "ko": "[RIGHTSTICKLEFTRIGHT|MOVEMENTLEFTRIGHT](으)로 경도를 조정하세요."}
+{"k": "a157dab87d99", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 기구를 집으세요."}
+{"k": "80868d5812f8", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 기구를 놓으세요."}
+{"k": "25b8d4f6c065", "ko": "[BACK|AIMFISTS] 버튼을 눌러 기구를 제자리에 돌려놓으세요."}
+{"k": "b14f05632090", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 확인하세요."}
+{"k": "2d61c8a2fb20", "ko": "[BACK|AIMFISTS] 버튼을 눌러 놓으세요."}
+{"k": "5f9a6acd12e5", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 장부를 여세요."}
+{"k": "e5200a11c9c6", "ko": "[ACCEPT|ATTACK] 버튼을 눌러 기록을 선택하세요."}
+{"k": "ea72365bd164", "ko": "[LEFTSTICK|MOVEMENTKEYS](으)로 칼을 고르고 [ACCEPT|ATTACK] 버튼을 눌러 선택하세요."}
+{"k": "b76677f2a97a", "ko": "[CIRCLE|RELOAD] 버튼을 눌러 체포하세요."}
+{"k": "154a118586ae", "ko": "[RIGHTSTICKUP|NOTEWATCH](으)로 용의자를 관찰하세요."}
+{"k": "f383226f41ab", "ko": "사다리 쪽으로 이동하면 올라갑니다."}
+{"k": "dc7156301525", "ko": "배수관 쪽으로 이동하면 올라갑니다."}
+{"k": "1e00b79c7bb3", "ko": "[LEFTSTICK|MOVEMENTUPDOWN](으)로 오르내리세요."}
+{"k": "09672206f6b4", "ko": "들키지 않도록 눈에 띄지 않게 행동하세요."}
+{"k": "2dfa0018ca4f", "ko": "들킬 위험이 있으면 용의자 차량 아이콘이 바뀌며 깜박입니다."}
+{"k": "740e3a110a6a", "ko": "용의자를 놓칠 위험이 있으면 용의자 차량 아이콘이 깜박입니다."}
